@@ -1,6 +1,7 @@
 # CuoiKy_ML
 
 Ngành: Hệ thống nhúng & IoT
+
 Môn học: Học máy và Trí tuệ nhân tạo
 
 GVHD : Nguyễn Mạnh Hùng
