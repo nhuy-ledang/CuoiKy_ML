@@ -2,6 +2,8 @@
 
 Link Google Colab: https://colab.research.google.com/drive/1AsiSiM0J6VHuI8Wf92POYN2tXbl3O6_r?usp=sharing
 
+Link PPT: https://docs.google.com/presentation/d/1JD3wNxC5nTmMGumzl3ow19PDIl0AkinE/edit#slide=id.g241fc0f10c9_4_131
+
 Ngành: Hệ thống nhúng & IoT
 
 Môn học: Học máy và Trí tuệ nhân tạo
