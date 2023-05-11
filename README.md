@@ -1,5 +1,7 @@
 # CuoiKy_ML
 
+Link Google Colab: https://colab.research.google.com/drive/1AsiSiM0J6VHuI8Wf92POYN2tXbl3O6_r?usp=sharing
+
 Ngành: Hệ thống nhúng & IoT
 
 Môn học: Học máy và Trí tuệ nhân tạo
